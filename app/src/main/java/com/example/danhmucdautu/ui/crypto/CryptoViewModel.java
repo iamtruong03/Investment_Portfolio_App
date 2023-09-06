@@ -1,4 +1,4 @@
-package com.example.danhmucdautu.ui.slideshow;
+package com.example.danhmucdautu.ui.crypto;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

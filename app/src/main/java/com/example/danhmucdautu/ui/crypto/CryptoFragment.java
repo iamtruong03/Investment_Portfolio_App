@@ -1,4 +1,4 @@
-package com.example.danhmucdautu.ui.slideshow;
+package com.example.danhmucdautu.ui.crypto;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
